@@ -106,3 +106,4 @@
 |77| Emma Clark | 14 | emmaclark15 | <https://github.com/emmaclark15/test> | https://emmaclark.netlify.app/> | 2022-09-21 |
 |78| Shashvat Somany | 04 | ssomany12 | <https://github.com/ssomany12/mywebsite> | <https://ssomany12.netlify.app/> | 2023-06-10 |
 |79| Claudia Cerezo Carrasco | 15 | claudiacerezocarrasco | <https://github.com/claudiacerezo/my_website> | <https://claudiacerezo-portfolio.netlify.app/> | 2023-06-15 |
+|80| Angela Zhong | 15 | Angelazhong1117 | <https://github.com/Angelazhong1117/my_website>| <https://angelazhongportfolio.netlify.app/> | 2023-06-17 |
